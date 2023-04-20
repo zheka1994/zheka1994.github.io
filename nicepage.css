@@ -6965,7 +6965,7 @@ ul.u-text li:last-child {
   padding: 1em;
 }
 .u-backlink a:first-letter {
-  
+
 }
 .u-backlink a,
 .u-backlink p {
@@ -41060,7 +41060,6 @@ a.u-link.u-text-hover-grey-90:hover {
         h1.u-title
         {
         font-weight: 300;
-        
         line-height: 1.1;
         font-size: 3rem;
         margin-top: 20px;
@@ -41069,7 +41068,6 @@ a.u-link.u-text-hover-grey-90:hover {
         h2.u-subtitle
         {
         font-weight: 300;
-        
         line-height: 1.2;
         font-size: 2.25rem;
         margin-top: 20px;
@@ -41078,7 +41076,6 @@ a.u-link.u-text-hover-grey-90:hover {
         h1:not(.u-title)
         {
         font-weight: 300;
-        
         line-height: 1.1;
         font-size: 3.75rem;
         margin-top: 20px;
@@ -41087,7 +41084,6 @@ a.u-link.u-text-hover-grey-90:hover {
         h2:not(.u-subtitle)
         {
         font-weight: 300;
-        
         line-height: 1.2;
         font-size: 2.25rem;
         margin-top: 20px;
@@ -41097,7 +41093,6 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         font-weight: 300;
         font-weight: 300;
-        
         line-height: 1.2;
         font-size: 1.875rem;
         margin-top: 20px;
@@ -41106,7 +41101,6 @@ a.u-link.u-text-hover-grey-90:hover {
         h4
         {
         font-weight: 300;
-        
         line-height: 1.2;
         font-size: 1.5rem;
         margin-top: 20px;
@@ -41115,7 +41109,6 @@ a.u-link.u-text-hover-grey-90:hover {
         h5
         {
         font-weight: 300;
-        
         line-height: 1.2;
         font-size: 1.25rem;
         margin-top: 20px;
@@ -41124,7 +41117,6 @@ a.u-link.u-text-hover-grey-90:hover {
         h6
         {
         font-weight: 300;
-        
         line-height: 1.2;
         font-size: 1.125rem;
         margin-top: 20px;
